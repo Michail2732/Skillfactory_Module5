@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\ConsoleClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|solutionrelative:VendingMachine\\ConsoleClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\VendingMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|solutionrelative:VendingMachine\\VendingMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\VendingMachine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|solutionrelative:VendingMachine\\VendingMachine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\Snack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|solutionrelative:VendingMachine\\Snack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\Snack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|solutionrelative:VendingMachine\\Snack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\SnackSlot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|solutionrelative:VendingMachine\\SnackSlot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\SnackSlot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF4951A-BB6F-4E74-A551-8AC087E37FE1}|VendingMachine\\VendingMachine.vcxproj|solutionrelative:VendingMachine\\SnackSlot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T19:34:06.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendingMachine.cpp",
+              "DocumentMoniker": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\VendingMachine.cpp",
+              "RelativeDocumentMoniker": "VendingMachine\\VendingMachine.cpp",
+              "ToolTip": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\VendingMachine.cpp",
+              "RelativeToolTip": "VendingMachine\\VendingMachine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T20:45:05.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SnackSlot.cpp",
+              "DocumentMoniker": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\SnackSlot.cpp",
+              "RelativeDocumentMoniker": "VendingMachine\\SnackSlot.cpp",
+              "ToolTip": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\SnackSlot.cpp",
+              "RelativeToolTip": "VendingMachine\\SnackSlot.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAG0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T19:43:16.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Snack.cpp",
+              "DocumentMoniker": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\Snack.cpp",
+              "RelativeDocumentMoniker": "VendingMachine\\Snack.cpp",
+              "ToolTip": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\Snack.cpp",
+              "RelativeToolTip": "VendingMachine\\Snack.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T19:11:36.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendingMachine.h",
+              "DocumentMoniker": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\VendingMachine.h",
+              "RelativeDocumentMoniker": "VendingMachine\\VendingMachine.h",
+              "ToolTip": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\VendingMachine.h",
+              "RelativeToolTip": "VendingMachine\\VendingMachine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T18:45:52.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SnackSlot.h",
+              "DocumentMoniker": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\SnackSlot.h",
+              "RelativeDocumentMoniker": "VendingMachine\\SnackSlot.h",
+              "ToolTip": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\SnackSlot.h",
+              "RelativeToolTip": "VendingMachine\\SnackSlot.h",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T18:44:56.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Snack.h",
+              "DocumentMoniker": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\Snack.h",
+              "RelativeDocumentMoniker": "VendingMachine\\Snack.h",
+              "ToolTip": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\Snack.h",
+              "RelativeToolTip": "VendingMachine\\Snack.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T18:44:33.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleClient.cpp",
+              "DocumentMoniker": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\ConsoleClient.cpp",
+              "RelativeDocumentMoniker": "VendingMachine\\ConsoleClient.cpp",
+              "ToolTip": "D:\\projects\\repos_c\u002B\u002B\\SkillFactory\\Module5_HomeWork\\Skillfactory_Module5\\VendingMachine\\VendingMachine\\ConsoleClient.cpp",
+              "RelativeToolTip": "VendingMachine\\ConsoleClient.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T18:42:23.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
